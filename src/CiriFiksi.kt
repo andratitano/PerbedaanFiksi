@@ -1,0 +1,4 @@
+interface CiriFiksi {
+    fun definisi()
+
+}
