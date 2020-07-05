@@ -1,20 +1,20 @@
 class Cerpen(): CiriFiksi {
-    var name: String = "Cerpen"
+    var nama: String = "Cerpen"
 
     override fun definisi() {
-        println("${this.name}  adalah prosa yang menceritakan sebagian kecil dari kehidupan pelakunya yang terpenting dan paling menarik. Di dalam cerpen boleh ada konflik atau pertikaian, akan tetapi hal itu tidak menyebabkan perubahan nasib pelakunya. ")
+        println("${this.nama}  adalah prosa yang menceritakan sebagian kecil dari kehidupan pelakunya yang terpenting dan paling menarik. Di dalam cerpen boleh ada konflik atau pertikaian, akan tetapi hal itu tidak menyebabkan perubahan nasib pelakunya. ")
     }
 
 
     fun jumlahKata() {
-        println("${this.name}'s real name is ${this.name}")
+        println("${this.nama}jumlah katanya 4.000-10.000")
     }
 
     fun alurCerita() {
-        println("${this.name} is categorized as an Animal. ${this.name} inherits from HomoSapien and HomoSapien is from Animal.")
+        println("${this.nama} memiliki alur cerita singkat dan sederhana.")
     }
 
     fun tokohUtama() {
-        println("${this.name} can leap building with only one blow. He is ${this.name}.")
+        println("${this.nama} Berfokus hanya pada satu tokoh utama dan satu peristiwa saja.")
     }
 }

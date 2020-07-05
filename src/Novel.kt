@@ -7,14 +7,14 @@ class Novel(): CiriFiksi {
 
 
     fun jumlahKata() {
-        println("${this.name}'s real name is ${this.name}")
+        println("${this.name} jumlah katanya 35.000-50.000")
     }
 
     fun alurCerita() {
-        println("${this.name} is categorized as an Animal. ${this.name} inherits from HomoSapien and HomoSapien is from Animal.")
+        println("${this.name} memiliki alur cerita panjang dan kompleks. Terkadang memiliki alur sampingan yang tidak berhubungan dengan konflik utama cerita")
     }
 
     fun tokohUtama() {
-        println("${this.name} can leap building with only one blow. He is ${this.name}.")
+        println("pada ${this.name}, tokoh utamanya bisa lebih dari satu. Dan menceritakan tidak hanya berpusat dalam satu tokoh, di mana setiap tokoh mempunyai deskripsi watak dan karakter yang cukup rinci.")
     }
 }
